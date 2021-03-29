@@ -1,0 +1,29 @@
+[0.226s] Invoking command in '/home/rmf-tester/AMR_S3_FuncTest_ws/src/functionality_test': PYTHONPATH=/home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/functionality_test build --build-base /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build install --prefix /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test --record /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log --single-version-externally-managed
+[0.416s] running egg_info
+[0.417s] writing ../../build/functionality_test/functionality_test.egg-info/PKG-INFO
+[0.417s] writing dependency_links to ../../build/functionality_test/functionality_test.egg-info/dependency_links.txt
+[0.417s] writing entry points to ../../build/functionality_test/functionality_test.egg-info/entry_points.txt
+[0.417s] writing requirements to ../../build/functionality_test/functionality_test.egg-info/requires.txt
+[0.417s] writing top-level names to ../../build/functionality_test/functionality_test.egg-info/top_level.txt
+[0.443s] reading manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+[0.443s] writing manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+[0.444s] running build
+[0.444s] running build_py
+[0.444s] copying functionality_test/test_lift_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+[0.444s] copying functionality_test/test_door_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+[0.444s] running install
+[0.445s] running install_lib
+[0.445s] copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/test_lift_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+[0.445s] copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/test_door_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+[0.446s] byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/test_lift_request.py to test_lift_request.cpython-38.pyc
+[0.447s] byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/test_door_request.py to test_door_request.cpython-38.pyc
+[0.447s] running install_data
+[0.448s] running install_egg_info
+[0.449s] removing '/home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test-0.0.0-py3.8.egg-info' (and everything under it)
+[0.449s] Copying ../../build/functionality_test/functionality_test.egg-info to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test-0.0.0-py3.8.egg-info
+[0.450s] running install_scripts
+[0.463s] Installing talker script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+[0.464s] Installing test_door_request script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+[0.464s] Installing test_lift_request script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+[0.464s] writing list of installed files to '/home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log'
+[0.479s] Invoked command in '/home/rmf-tester/AMR_S3_FuncTest_ws/src/functionality_test' returned '0': PYTHONPATH=/home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/functionality_test build --build-base /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build install --prefix /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test --record /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log --single-version-externally-managed

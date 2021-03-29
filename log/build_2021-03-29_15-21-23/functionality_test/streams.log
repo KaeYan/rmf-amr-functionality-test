@@ -1,0 +1,41 @@
+[0.198s] Invoking command in '/home/rmf-tester/AMR_S3_FuncTest_ws/src/functionality_test': PYTHONPATH=/home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/functionality_test build --build-base /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build install --prefix /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test --record /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log --single-version-externally-managed
+[0.371s] running egg_info
+[0.371s] creating ../../build/functionality_test/functionality_test.egg-info
+[0.371s] writing ../../build/functionality_test/functionality_test.egg-info/PKG-INFO
+[0.372s] writing dependency_links to ../../build/functionality_test/functionality_test.egg-info/dependency_links.txt
+[0.372s] writing entry points to ../../build/functionality_test/functionality_test.egg-info/entry_points.txt
+[0.372s] writing requirements to ../../build/functionality_test/functionality_test.egg-info/requires.txt
+[0.372s] writing top-level names to ../../build/functionality_test/functionality_test.egg-info/top_level.txt
+[0.373s] writing manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+[0.397s] reading manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+[0.397s] writing manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+[0.397s] running build
+[0.398s] running build_py
+[0.398s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build
+[0.398s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib
+[0.398s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+[0.398s] copying functionality_test/__init__.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+[0.398s] copying functionality_test/publisher_member_function.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+[0.398s] copying functionality_test/test_door_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+[0.398s] running install
+[0.398s] running install_lib
+[0.399s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+[0.399s] copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/__init__.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+[0.399s] copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/publisher_member_function.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+[0.399s] copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/test_door_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+[0.400s] byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/__init__.py to __init__.cpython-38.pyc
+[0.401s] byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[0.401s] byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/test_door_request.py to test_door_request.cpython-38.pyc
+[0.401s] running install_data
+[0.402s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/share/ament_index
+[0.402s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/share/ament_index/resource_index
+[0.402s] creating /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/share/ament_index/resource_index/packages
+[0.402s] copying resource/functionality_test -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/share/ament_index/resource_index/packages
+[0.402s] copying package.xml -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/share/functionality_test
+[0.402s] running install_egg_info
+[0.403s] Copying ../../build/functionality_test/functionality_test.egg-info to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test-0.0.0-py3.8.egg-info
+[0.404s] running install_scripts
+[0.418s] Installing talker script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+[0.418s] Installing test_door_request script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+[0.418s] writing list of installed files to '/home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log'
+[0.433s] Invoked command in '/home/rmf-tester/AMR_S3_FuncTest_ws/src/functionality_test' returned '0': PYTHONPATH=/home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/functionality_test build --build-base /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build install --prefix /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test --record /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log --single-version-externally-managed

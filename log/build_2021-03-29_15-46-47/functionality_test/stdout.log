@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/functionality_test/functionality_test.egg-info/PKG-INFO
+writing dependency_links to ../../build/functionality_test/functionality_test.egg-info/dependency_links.txt
+writing entry points to ../../build/functionality_test/functionality_test.egg-info/entry_points.txt
+writing requirements to ../../build/functionality_test/functionality_test.egg-info/requires.txt
+writing top-level names to ../../build/functionality_test/functionality_test.egg-info/top_level.txt
+reading manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+writing manifest file '../../build/functionality_test/functionality_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying functionality_test/test_lift_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+copying functionality_test/test_door_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test
+running install
+running install_lib
+copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/test_lift_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+copying /home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/build/lib/functionality_test/test_door_request.py -> /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test
+byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/test_lift_request.py to test_lift_request.cpython-38.pyc
+byte-compiling /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test/test_door_request.py to test_door_request.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/functionality_test/functionality_test.egg-info to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/python3.8/site-packages/functionality_test-0.0.0-py3.8.egg-info
+running install_scripts
+Installing talker script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+Installing test_door_request script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+Installing test_lift_request script to /home/rmf-tester/AMR_S3_FuncTest_ws/install/functionality_test/lib/functionality_test
+writing list of installed files to '/home/rmf-tester/AMR_S3_FuncTest_ws/build/functionality_test/install.log'
